@@ -21,6 +21,7 @@
         <module>springApplicationRunListenerDemo</module>
         <module>flywayAutoconfigurationDemo</module>
         <module>myAutoConfiguration</module>
+        <module>importSelector</module>
     </modules>
 
     <properties>
